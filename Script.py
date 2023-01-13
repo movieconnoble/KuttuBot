@@ -1,16 +1,11 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
+    START_TXT = """Yo...Yo... {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
 Thats All, i will Provide Movies There...🤓🤪
 
-
-⚠️More Help Check Help Button Below
-
-😎 Powered by @MOVIES_ZILAA
-
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @im_goutham_josh"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
@@ -32,24 +27,21 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○ Notice 📙:-
 
-○Dont Spam Me...🤒
-
-😎 Powered by @MOVIES_ZILAA
-
-©️ Maintained By @GuruBhai11"""
+○Dont Spam Me...🙂
+"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/wudixh1>ɢᴏᴜᴛʜᴀᴍ sᴇʀ🌈</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: VPS
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+- Source - https://github.com/GouthamSER/KuttuBot  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/wudixh1>ɢᴏᴜᴛʜᴀᴍ sᴇʀ🌈</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
