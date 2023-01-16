@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://user-images.githubusercontent.com/97418751/212598655-d7637a29-cba8-4ed6-92a4-6534d394b0f7.jpg" alt="ᴋᴜᴛᴛᴜ ʙᴏᴛ™ Logo">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
@@ -52,10 +52,12 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AM-ROBOTS/EvaMaria)
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/GouthamSER/KuttuBot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]&env[COLLECTION_NAME]=Telegram_files&env[FILE_CHANNEL]=-1001832732995&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[SINGLE_BUTTON]=True&env[AUTH_GROUPS]&env[P_TTI_SHOW_OFF]=True&branch=main&name=telegrambot">
+ <img src="https://www.koyeb.com/static/images/deploy/button.svg">
+
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/GouthamSER/KuttuBot)
 
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/Miajl2amrKo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -69,7 +71,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AM-ROBOTS/EvaMaria
+git clone https://github.com/GouthamSER/KuttuBot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
