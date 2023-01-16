@@ -1,20 +1,11 @@
 class script(object):
-    START_TXT = """Yo...Yo... {} 💖
-I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
-
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
+    START_TXT = """👋🏻 Hᴇʟʟᴏ {}.
+𝖨𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗐𝗁𝗂𝖼𝗁 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌. 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖺𝗇𝖽 𝗉𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇 𝗍𝗈 𝗅𝖾𝗍 𝗆𝖾 𝗀𝖾𝗍 𝗂𝗇 𝖺𝖼𝗍𝗂𝗈𝗇.
+𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖧𝖾𝗅𝗉 𝖻𝗎𝗍𝗍𝗈𝗇 𝖿𝗈𝗋 𝖬𝗈𝗋𝖾...
 
 ©️ Maintained By @im_goutham_josh"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
-
-○  Tutorial video is here @sources_cods
-
-○  it's Note Complicated...🤓
-
-○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
 
 ○ Available Commands
      
@@ -27,27 +18,23 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○ Notice 📙:-
 
-○Dont Spam Me...🙂
+○ Dont Spam Me...🙂
 """
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/wudixh1>ɢᴏᴜᴛʜᴀᴍ sᴇʀ🌈</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: VPS
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """<b>◎ Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™
+◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/wudixh1>Goutham SER</a>
+◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
+◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
+◎ Bᴏᴛ Sᴇʀᴠᴇʀ: Koyeb</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
+- ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is a open source project. 
 - Source - https://github.com/GouthamSER/KuttuBot  
 
 <b>DEVS:</b>
 - <a href=https://t.me/wudixh1>ɢᴏᴜᴛʜᴀᴍ sᴇʀ🌈</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
-
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
-
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. ᴋᴜᴛᴛᴜ ʙᴏᴛ™ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
