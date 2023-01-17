@@ -24,7 +24,7 @@ class script(object):
 ◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/wudixh1>Goutham SER</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
-◎ Bᴏᴛ Sᴇʀᴠᴇʀ: Koyeb</b>"""
+◎ Bᴏᴛ Sᴇʀᴠᴇʀ: Mogenuis</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is a open source project. 
 - Source - https://github.com/GouthamSER/KuttuBot  
