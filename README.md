@@ -2,17 +2,17 @@
   <img src="https://user-images.githubusercontent.com/97418751/212598655-d7637a29-cba8-4ed6-92a4-6534d394b0f7.jpg" alt="ᴋᴜᴛᴛᴜ ʙᴏᴛ™ Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>ᴋᴜᴛᴛᴜ ʙᴏᴛ™</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/AM-ROBOTS/EvaMaria?style=flat-square&color=yellow)](https://github.com/AM-ROBOTS/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/AM-ROBOTS/EvaMaria?style=flat-square&color=orange)](https://github.com/AM-ROBOTS/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/AM-ROBOTS/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AM-ROBOTS/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/AM-ROBOTS/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/AM-ROBOTS/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/8769ANURAG/EvaMaria.svg)](https://stars.medv.io/AM-ROBOTS/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/GouthamSER/KuttuBot?style=flat-square&color=yellow)](https://github.com/GouthamSER/KuttuBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/GouthamSER/KuttuBot?style=flat-square&color=orange)](https://github.com/GouthamSER/KuttuBot/fork)
+[![Size](https://img.shields.io/github/repo-size/GouthamSER/KuttuBot?style=flat-square&color=green)](https://github.com/GouthamSER/KuttuBot/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GouthamSER/KuttuBot)   
+[![Contributors](https://img.shields.io/github/contributors/GouthamSER/KuttuBot?style=flat-square&color=green)](https://github.com/GouthamSER/KuttuBot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GouthamSER/KuttuBot/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/GouthamSER/KuttuBot.svg)](https://github.com/GouthamSER/KuttuBot)
 
 
 ## Features
@@ -113,8 +113,6 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Technical_Help_Support_Bot)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/sources_cods)
 
-## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/AM_ROBOTS)
 
 
 ## Thanks to 
@@ -134,8 +132,3 @@ Fork the repo and edit as per your needs.
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
-## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
-
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
