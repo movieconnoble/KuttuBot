@@ -33,17 +33,17 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Anurag")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Anurag_files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MOVIES_ZILAA')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'wudixh1')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'True')), False)
 IMDB = is_enabled((environ.get('IMDB', 'False')), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', 'True')), False)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b><i>{file_name} » {file_size} › [ᴋᴜᴛᴛᴜ ʙᴏᴛ™](https://t.me/wudixh)</i></b>")
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b><i>{file_name} » {file_size} › [ᴋᴜᴛᴛᴜ ʙᴏᴛ™](https://t.me/wudixh)</i></b>")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "📂 <em>File Name</em>: <code>ᴋᴜᴛᴛᴜ ʙᴏᴛ™|{file_name}</code> \n\n🖇 <em>File Size</em>: <code>{file_size}</code> </i>Join</i> [⚡️ᴇʟ ᴅᴏʀᴀᴅᴏ🚬](https://t.me/wudixh)  \n\n🖥 <i>Requests</i> - ||@im_kuttu_bot||")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "📂 <em>File Name</em>: <code>ᴋᴜᴛᴛᴜ ʙᴏᴛ™|{file_name}</code> \n\n🖇 <em>File Size</em>: <code>{file_size}</code> </i>Join</i> [⚡️ᴇʟ ᴅᴏʀᴀᴅᴏ🚬](https://t.me/wudixh)  \n\n🖥 <i>Requests</i> - ||@im_kuttu_bot||")
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> \n🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10 \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} \n\n🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [ᴋᴜᴛᴛᴜ ʙᴏᴛ™](https://t.me/wudixh1)")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
