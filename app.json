@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/GouthamSER/KuttuBot",
-    "repository": "https://github.com/GouthamSER/KuttuBot",
+    "repository": "https://github.com/movieconnoble",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -75,7 +75,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
